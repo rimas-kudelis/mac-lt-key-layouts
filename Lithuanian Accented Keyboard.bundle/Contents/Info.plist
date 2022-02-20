@@ -7,11 +7,11 @@
 	<key>CFBundleGetInfoString</key>
 	<string>Lithuanian Accented Keyboard layout for macOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.keyboardlayout.lithuanianacc</string>
+	<string>com.apple.keyboardlayout.lithuanianaccented</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Lithuanian</string>
+	<string>LithuanianAccented</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.0</string>
 	<key>CFBundleVersion</key>
